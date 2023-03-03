@@ -31,7 +31,7 @@ class PerWorldChat extends PluginBase {
     /**
      * Check if chat is disabled on the specified world
      * 
-     * @param string
+     * @param string $level
      * 
      * @return bool
      */
