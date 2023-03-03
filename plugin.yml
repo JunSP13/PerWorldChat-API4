@@ -1,0 +1,14 @@
+---
+name: PerWorldChat
+main: PerWorldChat\PerWorldChat
+version: "1.9"
+api:
+- 4.0.0
+load: STARTUP
+author: EvolSoft
+updater: JunSP13
+description: Set a separate chat for each world
+websites: 
+- https://www.evolsoft.tk
+- https://junsp13.ml
+...
