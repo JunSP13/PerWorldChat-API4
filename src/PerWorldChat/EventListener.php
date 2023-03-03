@@ -13,7 +13,6 @@ namespace PerWorldChat;
 
 use pocketmine\event\Listener;
 use pocketmine\event\player\PlayerChatEvent;
-use pocketmine\event\Cancellable;
 use pocketmine\player\Player;
 use pocketmine\utils\TextFormat;
 
@@ -35,7 +34,7 @@ class EventListener implements Listener {
 		    if($this->plugin->cfg["log-chat-disabled"]){
 		        $player->sendMessage(TextFormat::colorize(PerWorldChat::PREFIX . "&cChat is disabled on this world"));
 		    }
-		    $event->isCancelled(true);
+		    $event->isCancelled()return true;
 		}
 		$recipients = $event->getRecipients();
 		foreach($recipients as $key => $recipient){
