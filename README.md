@@ -1,10 +1,10 @@
-## Overview
+## General
 
 **PerWorldChat** is a simple PocketMine-MP plugin which implements a separate chat for each world and also let you disable chat in other worlds.
 
 **[Outdated] EvolSoft Website:** https://www.evolsoft.tk
 
-**[Spanish Web] JunSP13 Website:** https://junsp13.ml
+**[Spanish Web] JunSP13 Website:** https://junsp13.ml/plugins
 
 ***This Plugin uses the PocketMine-MP API 4.x.x***
 
