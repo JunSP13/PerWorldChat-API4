@@ -6,8 +6,7 @@
 
 **[Spanish Web] JunSP13 Website:** https://junsp13.ml
 
-PocketMine-MP API 4.0.0
-***This Plugin uses the API 4.x.x***
+***This Plugin uses the PocketMine-MP API 4.x.x***
 
 ## Documentation 
 
