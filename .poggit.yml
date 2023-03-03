@@ -1,7 +1,7 @@
 --- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/JunSP13/PerWorldChat-API4
 build-by-default: true
 branches:
-- main
+- master
 projects:
   PerWorldChat-API4:
     path: ""
